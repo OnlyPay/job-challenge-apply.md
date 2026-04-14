@@ -1,4 +1,4 @@
-# Full-stack Challenge Guide (Onlypay Edition)
+# Full-stack Challenge Guide (Onlypay)
 
 The Full-stack Challenge encourages you to create a CRUD (Create, Read, Update, Delete) web application that showcases your skills in both backend and frontend development. We will assess your ability to use modern frameworks and tools while emphasizing clean, maintainable code and a polished, user-friendly product.
 
@@ -16,9 +16,13 @@ This project requires using the following technologies:
 
 - **Node.js** is a popular server-side JavaScript runtime. It allows for fast, asynchronous processing and is great for I/O-intensive applications like web services.
 
-- **Relational Database** (PostgreSQL, MySQL, etc.) should be used to persist data. The choice of database is up to the candidate.
+- **Relational Database** (PostgreSQL, MySQL, etc.) should be used to persist data. The choice of database is up to the candidate and also the databack package as Prisma, Orm, Sequelize, etc...
 
-- **TypeScript** is optional, but considered a **differential**.
+- **TypeScript** TypeScript provides static typing that catches bugs during development rather than at runtime.
+It acts as living documentation, making complex codebases easier for teams to navigate with perfect autocomplete and refactoring tools.
+
+- **NextJS** A progressive Node.js framework for building efficient, reliable and scalable server-side applications. (It's completely optional, but it's a plus)
+
 
 **Why use these technologies?**
 
