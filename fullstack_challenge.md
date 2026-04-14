@@ -176,7 +176,7 @@ While the technical aspects are crucial, creativity in terms of product and desi
 
 ## **Useful Resources**
 
-- Express.js docs  
-- React docs  
-- Docker docs  
-- OpenAPI (Swagger)
+- Express.js docs  - https://expressjs.com/ 
+- React docs  - https://react.dev/
+- Docker docs - https://docs.docker.com/ 
+- OpenAPI (Swagger) - https://swagger.io/docs/
